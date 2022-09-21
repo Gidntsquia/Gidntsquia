@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Jaxon Lee
+###  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40"> Hi, I'm Jaxon Lee
 I'm a computer scientist student at the University of Maryland who loves robotics, video games, and data analysis.
 
 ### 👨‍💻 Check out some of my projects:
@@ -9,3 +9,5 @@ I'm a computer scientist student at the University of Maryland who loves robotic
 
 🤿 For fun...
 - 🦅 [`Birds need a BUFF`](https://steamcommunity.com/sharedfiles/filedetails/?id=2721164122&searchtext=) Popular mod I made for my favorite indie game, Luck be a Landlord
+![Uploading image.png…]()
+
