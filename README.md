@@ -1,4 +1,4 @@
-###  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40"> Hi, I'm Jaxon Lee
+### 👋 Hi, I'm Jaxon Lee
 I'm a computer scientist student at the University of Maryland who loves robotics, video games, and data analysis.
 
 ### 👨‍💻 Check out some of my projects:
