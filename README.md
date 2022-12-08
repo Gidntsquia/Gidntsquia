@@ -9,6 +9,7 @@ I'm a computer scientist student at the University of Maryland who loves robotic
 - 📄 [`"Simulating Robot Tournaments"`](https://github.com/Gidntsquia/JaxonLee/files/7237609/Lee_IB_Math_IA.pdf) Academic paper I wrote simulating the winners of the cancelled 2020 international competition. Honored by event organizers on event website
 
 🤿 For fun...
+- 🎄 [`Gidntsquia/AdventOfCode`](https://github.com/Gidntsquia/AdventOfCode) My solutions to December 2022's "Advent of Code" puzzles
 - 🦅 [`Birds need a BUFF`](https://steamcommunity.com/sharedfiles/filedetails/?id=2721164122&searchtext=) Popular mod I made for my favorite indie game, Luck be a Landlord
 ![Uploading image.png…]()
 
