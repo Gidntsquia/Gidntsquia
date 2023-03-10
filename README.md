@@ -4,6 +4,7 @@ I'm a computer scientist student at the University of Maryland who loves robotic
 ### 👨‍💻 Check out some of my projects:
 - 🛴 [`REZOOM-UMD/rezoom-umd.github.io`](https://github.com/REZOOM-UMD/rezoom-umd.github.io) Autonomous scooter that navigates around campus by itself. Note: Main repository is private :(
 - 🎈 [`UMDBPP/TUFFcode`](https://github.com/UMDBPP/TUFFcode) Upper-atmosphere research balloon that collected tension data to track air resistance
+- 📄 [`"TUFF: The Utility of Live Tension Measurements for Scientific Ballooning and Flight Dynamics"`](https://doi.org/10.31274/ahac.15632) Reseach paper I wrote about using tension measurements on weather balloons
 - 🎮 [`Gidntsquia/HalloweenGameJam2021`](https://github.com/Gidntsquia/HalloweenGameJam2021) Short game I created for a Halloween themed game jam
 - 🤖 [`RockvilleRobotics/Incredibots2019`](https://github.com/rockvillerobotics/Incredibots2019) Fully autonomous robot I deployed to international competetion of 80+ teams, placing top 5 in the world
 - 📄 [`"Simulating Robot Tournaments"`](https://github.com/Gidntsquia/JaxonLee/files/7237609/Lee_IB_Math_IA.pdf) Academic paper I wrote simulating the winners of the cancelled 2020 international competition. Honored by event organizers on event website
