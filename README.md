@@ -2,7 +2,7 @@
 I'm a computer scientist student at the University of Maryland who loves robotics, video games, and data analysis.
 
 ### 👨‍💻 Check out some of my projects:
-- 🛴 [`REZOOM-UMD/rezoom-umd.github.io`](https://github.com/REZOOM-UMD/rezoom-umd.github.io) Autonomous scooter that navigates around campus by itself. Note: Main repository is private :(
+- 🛴 [`http://rezoom.umd.edu`](http://rezoom.umd.edu) Autonomous scooter that navigates around campus by itself.
 - 🎈 [`UMDBPP/TUFFcode`](https://github.com/UMDBPP/TUFFcode) Upper-atmosphere research balloon that collected tension data to track air resistance
 - 📄 [`"TUFF: The Utility of Live Tension Measurements for Scientific Ballooning and Flight Dynamics"`](https://doi.org/10.31274/ahac.15632) Reseach paper I wrote about using tension measurements on weather balloons
 - 🎮 [`Gidntsquia/HalloweenGameJam2021`](https://github.com/Gidntsquia/HalloweenGameJam2021) Short game I created for a Halloween themed game jam
