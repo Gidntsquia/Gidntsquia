@@ -6,7 +6,7 @@ I'm a computer science grad from the University of Maryland who loves AI, Deadlo
 ### 🔥 Recent projects:
 - 🎮 [`deadlock-street-brawl-helper`](https://github.com/Gidntsquia/deadlock-street-brawl-helper) Deadlock Street Brawl draft advisor
 - 🎮 [`deadlock-optimal-build-finder`](https://github.com/Gidntsquia/deadlock-optimal-build-finder) Deadlock optimal build finder
-- 🎵 [`wordbound-crescendo`](https://github.com/Gidntsquia/wordbound-crescendo)
+- 🎵 [`wordbound-crescendo`](https://github.com/Gidntsquia/wordbound-crescendo) Baltro x Scrabble browser game 
 - 🐱‍👤 [`pogo-gbl-team-generator`](https://github.com/Gidntsquia/pogo-gbl-team-generator) Generate teams for Pokémon Go's Go Battle League
 - 📹 [`pokemon-go-video-to-csv`](https://github.com/Gidntsquia/pokemon-go-video-to-csv) Turn a screen recording of your Pokemon GO box into a collection CSV
 
