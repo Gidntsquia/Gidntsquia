@@ -1,7 +1,17 @@
 ### 👋 Hi, I'm Jaxon Lee
-I'm a computer scientist student at the University of Maryland who loves robotics, video games, and data analysis.
+I'm a computer science grad from the University of Maryland who loves AI, Deadlock, and good food.
 
-### 👨‍💻 Check out some of my projects:
+### 📊 [Project Dashboard](https://claude.ai/code/artifact/61e892af-ab44-48cb-9c9b-74ee690c6dad)
+Where I store all my projects.
+
+### 🔥 Recent projects:
+- 🎮 [`deadlock-street-brawl-helper`](https://github.com/Gidntsquia/deadlock-street-brawl-helper) Deadlock Street Brawl draft advisor
+- 🎮 [`deadlock-optimal-build-finder`](https://github.com/Gidntsquia/deadlock-optimal-build-finder) Deadlock optimal build finder
+- 🎵 [`wordbound-crescendo`](https://github.com/Gidntsquia/wordbound-crescendo)
+- 🐱‍👤 [`pogo-gbl-team-generator`](https://github.com/Gidntsquia/pogo-gbl-team-generator) Generate teams for Pokémon Go's Go Battle League
+- 📹 [`pokemon-go-video-to-csv`](https://github.com/Gidntsquia/pokemon-go-video-to-csv) Turn a screen recording of your Pokemon GO box into a collection CSV
+
+### 👨‍💻 Check out some of my older projects:
 - 🤖 [`Gidntsquia/MRC-ARL_Nav_Team`](https://github.com/Gidntsquia/MRC-ARL_Nav_Team) Autonomous robot for delivering resources in battlefield setting
 - 🛴 [`http://rezoom.umd.edu`](http://rezoom.umd.edu) Autonomous scooter that navigates around campus by itself.
 - 🎈 [`UMDBPP/TUFFcode`](https://github.com/UMDBPP/TUFFcode) Upper-atmosphere research balloon that collected tension data to track air resistance
