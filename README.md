@@ -1,6 +1,8 @@
 ### 👋 Hi, I'm Jaxon Lee
 I'm a computer science grad from the University of Maryland who loves AI, Deadlock, and good food!
 
+### 📄 [Resume](Jaxon_Lee_Resume.pdf)
+
 ### 📊 [Project Dashboard](https://claude.ai/code/artifact/61e892af-ab44-48cb-9c9b-74ee690c6dad)
 
 ### 🔥 Recent projects:
