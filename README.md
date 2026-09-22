@@ -6,10 +6,11 @@ I'm a computer science grad from the University of Maryland who loves AI, Deadlo
 ### 📊 [Project Dashboard](https://claude.ai/code/artifact/61e892af-ab44-48cb-9c9b-74ee690c6dad)
 
 ### 🔥 Recent projects:
+- 🐱‍👤 [`pogo-gbl-team-generator`](https://github.com/Gidntsquia/pogo-gbl-team-generator) Generate teams for Pokémon Go's Go Battle League
 - 🎮 [`deadlock-street-brawl-helper`](https://github.com/Gidntsquia/deadlock-street-brawl-helper) Deadlock Street Brawl draft advisor
 - 🎮 [`deadlock-optimal-build-finder`](https://github.com/Gidntsquia/deadlock-optimal-build-finder) Deadlock optimal build finder
-- 🎵 [`wordbound-crescendo`](https://github.com/Gidntsquia/wordbound-crescendo) Baltro x Scrabble browser game 
-- 🐱‍👤 [`pogo-gbl-team-generator`](https://github.com/Gidntsquia/pogo-gbl-team-generator) Generate teams for Pokémon Go's Go Battle League
+- 🎵 [`wordbound-crescendo`](https://github.com/Gidntsquia/wordbound-crescendo) Balatro x Scrabble browser game
+- 🏛️ [`archeaology-site-explorer`](https://github.com/Gidntsquia/archeaology-site-explorer) Fly around real archaeological sites in 3D, in the browser
 - 📹 [`pokemon-go-video-to-csv`](https://github.com/Gidntsquia/pokemon-go-video-to-csv) Turn a screen recording of your Pokemon GO box into a collection CSV
 
 ### 👨‍💻 Check out some of my older projects:
